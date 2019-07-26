@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Geographic data from IP">6754088b4ffa730072e34f00a310c734</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">76c4c48b4ffa730072e34f00a310c7eb</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-26 15:44:16</sys_created_on>
+        <sys_id>ca258ccb4ffa730072e34f00a310c782</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IPInfo Spoke" source="x_381168_ipinfo_sp">5e8000cf4fba730072e34f00a310c7ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">5e8000cf4fba730072e34f00a310c7ff</sys_scope>
+        <sys_update_name>sys_hub_action_instance_ca258ccb4ffa730072e34f00a310c782</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-26 15:54:48</sys_updated_on>
+        <ui_id>60fd6e86-245a-4ff7-b333-b9de604f6253</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=ca258ccb4ffa730072e34f00a310c782"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>ca258ccb4ffa730072e34f00a310c782</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-26 15:54:48</sys_created_on>
+        <sys_id>ec97484f4ffa730072e34f00a310c752</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-26 15:54:48</sys_updated_on>
+        <value>207.91.169.66</value>
+        <variable display_value="">4fb6004f4ffa730072e34f00a310c779</variable>
+    </sys_variable_value>
+</record_update>
